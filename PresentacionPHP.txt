@@ -1,0 +1,4 @@
+Hola, mi nombre es Nicolas Lucero, tengo 28 años. Soy de Gral. Pico, La Pampa. Empece con la programacion allá por el 2020, soy egresado de Codo a Codo (Fullstack con Javascript) de ese mismo año 
+cuando ademas inicie una carrera universitaria. Actualmente estudio Analista Programador y trabajo como programador frontend en el municipio de mi ciudad, ademas de proyectos para terceros. 
+Me anote este año para el curso de PHP por una invitacion que me llego al mail, desafortunadamente no quede en los seleccionados, pero 2 meses despues me tomo por sorpresa un correo en el que me notificaban que podia unirme a esta comisión que ya estaba en curso. 
+Me interesa mucho aprender PHP ya que en la universidad hasta ahora solo he trabajado con Java y C++, pero como me interesa el desarrollo web, PHP aportaria mucho para mi desarrollo personal.Se agradece mucho la oportunidad! :D
